@@ -1,0 +1,17 @@
+// Auth Action Types
+export const EMAIL_CHANGED = 'EMAIL_CHANGED';
+export const PASSWORD_CHANGED = 'PASSWORD_CHANGED';
+export const LOGOUT_USER = 'LOGOUT_USER';
+export const SIGNUP_USER = 'SIGNUP_USER';
+export const LOGIN_USER_SUCCESS = 'LOGIN_USER_SUCCESS';
+export const LOGIN_USER_FAIL = 'LOGIN_USER_FAIL';
+export const LOGIN_USER = 'LOGIN_USER';
+
+// Employee Action Types
+export const EMPLOYEE_FIELD_UPDATE = 'EMPLOYEE_FIELD_UPDATE';
+export const EMPLOYEE_FORM_RESET = 'EMPLOYEE_FORM_RESET';
+export const EMPLOYEES_FETCH_SUCCESS = 'EMPLOYEES_FETCH_SUCCESS';
+
+
+// Library Action Types
+export const SELECT_LIBRARY = 'SELECT_LIBRARY';
